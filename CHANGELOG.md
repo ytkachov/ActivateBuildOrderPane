@@ -1,7 +1,7 @@
 # Roadmap
 
 - [x] Initial release for VS2015
-- [ ] Make it available for other versions of VS2015
+- [ ] Make it available for other versions of Visual Studio
 - [ ] Localization
 
 
