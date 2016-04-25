@@ -3,7 +3,10 @@
   <Metadata>
     <Identity Id="ActivateBuildOrderPane.Yuri Tkachov.adf4dded-db1e-481d-9904-ed1accced8e9" Version="1.0" Language="en-US" Publisher="Yuri Tkachov" />
     <DisplayName>ActivateBuildOrderPane</DisplayName>
-    <Description>Empty VSIX Project.</Description>
+    <Description xml:space="preserve">This trivial VS extension activates Build Order Pane of the Output Window as soon as Build completed. </Description>
+    <License>LICENSE.txt</License>
+    <PreviewImage>toolbar_new_button.png</PreviewImage>
+    <Tags>OutputWindow, Build, Build Order Pane</Tags>
   </Metadata>
   <Installation>
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[14.0]" />
