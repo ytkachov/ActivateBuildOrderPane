@@ -10,8 +10,7 @@ Download this extension from the [VS Gallery](https://visualstudiogallery.msdn.m
 
 ---------------------------------------
 
-Initial release.
-
+Version 1.0.1 released
 
 ## License
 [Apache 2.0](LICENSE.txt)
